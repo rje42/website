@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include graphical models, causality and algebraic statistics, and their application to epidemiology, medicine and social sciences.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Graphical Models
+- Causality
+- Algebraic Statistics
+- Latent Variable Models
 
 education:
   courses:
